@@ -13,7 +13,8 @@
   Besides that we also support a variety of older versions between **1.7.10** and **1.18.2**
 
   -|  <a href="http://neptuneclient.com">Website</a> - 
-  <a href="https://discord.gg/v3t8fABVd5">Discord</a>  |-
+  <a href="https://discord.gg/v3t8fABVd5">Discord</a> -
+  <a href="https://youtube.com/@neptuneclient">YouTube</a> |-
 </div>
 
 <br>
